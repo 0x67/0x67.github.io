@@ -1,0 +1,11 @@
+body {
+    background-color: #96ffd9;
+}
+
+.centered-player {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
